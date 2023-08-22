@@ -1,33 +1,25 @@
-<h2 align='center'> Bienvenido/a👋 😉 </h2>
+<h1 align="center">Bienvenido/a👋 😉 soy Alex</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=darioaplicano&label=Profile%20views&color=0e75b6&style=flat" alt="darioaplicano" /> </p>
 
-<p align='center'>
-  <!-- <a href="https://medium.com/@toniflorithomar"><img src="https://img.shields.io/badge/medium-%231DA1F2.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp; -->
-  <a href="mailto:aplicano0921@gmail.com?subject=Olá%20Punit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+<div align="center" style="margin-bottom: 10px">
+  <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="js" style="max-width: 100%;">
+</div>
 
-<hr>
-<p align='center'>
-  <a href="#"><img src="https://visitor-badge.glitch.me/badge?page_id=adfaplicano"></a>
-</p>
+<hr />
 
-<hr>
-<h2 align='left'>Lenguajes y tecnologías</h2>
-<p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/jupyter-book-orange?logo=data:image/png%3Bbase64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAZCAMAAAAVHr4VAAAAXVBMVEX////v7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/zdybv7+/v7+/zdybv7+/zdybv7+/v7+/zdybv7+/zdybv7+/zdyaSmqV2AAAAHXRSTlMAEBAgIDAwQEBQUGBgcHCAgJCQoLCwwMDQ4ODw8MDkUIUAAADJSURBVHjaddAFkgNBCAXQP+7uAvc/5tLFVseYF8crUB0560r/5gwvjYYm8gq8QJoyIJNwlnUH0WEnART6YSezV6c5tjOTaoKdfGXtnclFlEBEXVd8JzG4pa/LDql9Jff/ZCC/h2zSqF5bzf4vqkgNwEzeClUd8uMadLE6OnhBFsES5niQh2BOYUqZsfGdmrmbN+TMvPROHUOkde8sEs6Bnr0tDDf2Roj6fmVfubuGyttejCeLc+xFm+NLuLnJeFAyl3gS932MF/wBoukfUcwI05kAAAAASUVORK5CYII=" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+- 👀 I’m interested in **Data Science** and **ai**.
 
-<!--
+<h3 align="center">📫 Reach me out:</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/darioaplicano/">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
+  </a>
+  <a href="https://twitter.com/darioaplicano">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="max-width: 100%;">
+  </a>
+</div>
+
+<!---
 **adfaplicano/adfaplicano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can click the Preview link to take a look at your changes.
+--->
