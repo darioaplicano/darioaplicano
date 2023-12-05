@@ -3,6 +3,7 @@
 
 <div align="center" style="margin-bottom: 10px">
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="js" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="js" style="max-width: 100%;">
   <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="js" style="max-width: 100%;">
 </div>
 
