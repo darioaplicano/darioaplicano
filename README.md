@@ -7,15 +7,18 @@
 
 <hr />
 
-- 👀 I’m interested in **Data Science** and **ai**.
+- 👀 Estoy interesado en **Ciencia de datos** y **ai**.
 
-<h3 align="center">📫 Reach me out:</h3>
+<h3 align="center">📫 Me puedes encontrar en:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/darioaplicano/">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin" style="max-width: 100%;">
   </a>
   <a href="https://twitter.com/darioaplicano">
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter" style="max-width: 100%;">
+  </a>
+  <a href="https://www.instagram.com/darioaplicano/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram" style="max-width: 100%;">
   </a>
 </div>
 
