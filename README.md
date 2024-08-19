@@ -18,10 +18,4 @@
   <a href="https://www.linkedin.com/in/darioaplicano/">
     <img class="img-fluid" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin">
   </a>
-  <a href="https://twitter.com/darioaplicano">
-    <img class="img-fluid" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/twitter.svg" alt="twitter">
-  </a>
-  <a href="https://www.instagram.com/darioaplicano/">
-    <img class="img-fluid" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/social/instagram.svg" alt="instagram">
-  </a>
 </div>
