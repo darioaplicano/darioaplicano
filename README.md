@@ -1,21 +1,49 @@
-<h1 align="center" class="text-center">Bienvenido/a👋 😉 soy Alex</h1>
-<p align="center" class="text-center"> <img class="img-fluid" src="https://komarev.com/ghpvc/?username=darioaplicano&label=Profile%20views&color=0e75b6&style=flat" alt="darioaplicano" /> </p>
+<h1 align="center">¡Hola! 👋 Soy Alex Darío</h1>
 
-<div align="center" class="text-center mb-4">
-  <img class="img-fluid" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/dev/languages/python.svg" alt="python">
-  <img class="img-fluid" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg" alt="visual studio code">
-  <img class="img-fluid" src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/docker.svg" alt="docker">
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darioaplicano&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil" />
+</p>
 
-<div align="center" class="text-center mb-4">
-  <p class="text-left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img class="img-fluid" src="https://github-profile-trophy.vercel.app/?username=darioaplicano" alt="darioaplicano" /></a> </p>
-</div>
+---
 
-<hr />
+### Sobre mí
 
-<h3 align="center" class="text-center">📫 Me puedes encontrar en:</h3>
-<div align="center" class="text-center">
-  <a href="https://www.linkedin.com/in/darioaplicano/">
-    <img class="img-fluid" src="https://github.com/MikeCodesDotNET/ColoredBadges/raw/master/svg/social/linkedin.svg" alt="linkedin">
+- 🔭 Trabajo con **Python** y **Azure** construyendo soluciones cloud y automatización.
+- 🤖 Integro **LLMs** en mis proyectos: **OpenAI**, **Claude** y **Perplexity**.
+- 🌱 Aprendo continuamente sobre **IA aplicada, datos y DevOps**.
+- 💬 Pregúntame sobre **Python, contenedores y prompt engineering**.
+
+### Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,azure,docker,vscode,git,github,bash,linux" alt="Stack" />
   </a>
-</div>
+</p>
+
+### IA y LLMs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white" alt="Perplexity" />
+</p>
+
+### Actividad
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/darioaplicano?label=Followers&style=for-the-badge&color=0e75b6&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/darioaplicano?label=Stars&style=for-the-badge&color=0e75b6&logo=github" alt="Stars" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=darioaplicano&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+</p>
+
+### Contacto
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/darioaplicano/">
+    <img src="https://img.shields.io/badge/LinkedIn-darioaplicano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
