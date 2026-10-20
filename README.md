@@ -51,14 +51,6 @@
 
 ---
 
-### 🚀 Proyectos &amp; Publicaciones Clave
-
-- 🌐 **[darioaplicano.com](https://darioaplicano.com/)**: Web técnica personal y blog de ingeniería. Construida sobre Jekyll, con analítica privada y ética (Umami, 0 cookies) y pipeline de entrega continua en GitHub Pages.
-- 📚 **[Guía y Manual de InfluxDB 2.x](https://darioaplicano.gitbook.io/influxdb2.x)**: Documentación de referencia en español para arquitecturas de series temporales, modelado y lenguaje FLUX.
-- 📱 **[Pulso](https://pulso.darioaplicano.com)**: Progressive Web App serverless orientada a la gestión de turnos y cuadrantes, desplegada sobre Azure Static Web Apps con Vite y CI/CD automatizado.
-
----
-
 <h3 align="center">📊 Consistencia &amp; Código</h3>
 
 <p align="center">
