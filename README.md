@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Portafolio_&_CV-darioaplicano.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
   <a href="https://linkedin.com/in/darioaplicano"><img src="https://img.shields.io/badge/LinkedIn-darioaplicano-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://darioaplicano.gitbook.io/influxdb2.x"><img src="https://img.shields.io/badge/GitBook-Guías_Técnicas-3884FF?style=flat-square&logo=gitbook&logoColor=white" alt="GitBook" /></a>
+  <a href="https://darioaplicano.gitbook.io/influxdb2.x"><img src="https://img.shields.io/badge/GitBook-InfluxDB_2.x-3884FF?style=flat-square&logo=gitbook&logoColor=white" alt="GitBook" /></a>
 </p>
 
 ---
