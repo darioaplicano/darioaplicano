@@ -1,7 +1,7 @@
-<h1 align="center">¡Hola! 👋 Soy Alex Darío Flores</h1>
+<h1 align="center">AIOps &amp; AI Systems Engineering</h1>
 
 <p align="center">
-  <strong>AI Operations &amp; Systems Engineer @ Telefónica España</strong><br/>
+  <strong>Alex Darío Flores</strong> &middot; AI Operations &amp; Systems Engineer @ Telefónica España<br/>
   Sistemas Agénticos en Producción (LangGraph &middot; MCP) &middot; Observabilidad Crítica &middot; Big Data
 </p>
 
@@ -51,13 +51,18 @@
 
 ---
 
+### 🚀 Proyectos &amp; Publicaciones Clave
+
+- 🌐 **[darioaplicano.com](https://darioaplicano.com/)**: Web técnica personal y blog de ingeniería. Construida sobre Jekyll, con analítica privada y ética (Umami, 0 cookies) y pipeline de entrega continua en GitHub Pages.
+- 📚 **[Guía y Manual de InfluxDB 2.x](https://darioaplicano.gitbook.io/influxdb2.x)**: Documentación de referencia en español para arquitecturas de series temporales, modelado y lenguaje FLUX.
+- 📱 **[Pulso](https://pulso.darioaplicano.com)**: Progressive Web App serverless orientada a la gestión de turnos y cuadrantes, desplegada sobre Azure Static Web Apps con Vite y CI/CD automatizado.
+
+---
+
 <h3 align="center">📊 Consistencia &amp; Código</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darioaplicano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=darioaplicano&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
