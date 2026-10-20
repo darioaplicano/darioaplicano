@@ -62,7 +62,14 @@
 
 ---
 
+<h3 align="center">🤝 Conectemos</h3>
+
 <p align="center">
-  ¿Quieres conectar o hablar sobre IA agéntica, observabilidad y datos?<br/>
-  Escríbeme a través de <a href="https://linkedin.com/in/darioaplicano">LinkedIn</a> o visita <a href="https://darioaplicano.com">darioaplicano.com</a>.
+  ¿Hablamos sobre <strong>IA agéntica</strong>, <strong>observabilidad</strong> o <strong>arquitecturas de datos</strong>?<br/>
+  Siempre abierto a intercambiar ideas, experiencias y debatir sobre tecnología.
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/darioaplicano"><img src="https://img.shields.io/badge/LinkedIn-Conectar_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Web_Personal-darioaplicano.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
 </p>
