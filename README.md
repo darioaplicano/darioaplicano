@@ -18,7 +18,7 @@
 +10 años de trayectoria en datos y sistemas de alta disponibilidad. Especializado en la convergencia entre **sistemas agénticos de IA** y **observabilidad crítica (AIOps)** en entornos de escala masiva:
 
 - 🔭 **AIOps en Servicios Críticos (Telefónica España)**: Observabilidad en tiempo real, detección estadística de anomalías y telemetría analítica para la plataforma de vídeo de **Movistar Plus+**, optimizando la fiabilidad del servicio y reduciendo tiempos de resolución (MTTR).
-- 🤖 **Arquitecturas Agénticas & LLMs**: Diseño y orquestación de agentes autónomos con **LangGraph**, **Model Context Protocol (MCP)** y **Agent Skills** modulares, integrando modelos de frontera (**Claude**, **GPT**, **Gemini**) con salvaguardas *Human-in-the-Loop*.
+- 🤖 **Arquitecturas Agénticas & LLMs**: Diseño y orquestación de agentes autónomos con **LangGraph**, **Model Context Protocol (MCP)** y **Agent Skills** modulares, integrando modelos de frontera (**Anthropic**, **OpenAI**, **Google**) con salvaguardas *Human-in-the-Loop*.
 - ⚡ **Ingeniería de Datos de Alto Rendimiento**: Arquitecturas analíticas OLAP y bases de datos de series temporales (**ClickHouse**, **InfluxDB**) combinadas con pipelines desatendidos en **Apache Airflow**, **Docker** y **Azure**.
 
 ---
@@ -27,9 +27,9 @@
 
 <p align="center">
   <strong>Modelos de Frontera</strong><br/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
-  <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI GPT" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Anthropic-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" />
 </p>
 
 <p align="center">
