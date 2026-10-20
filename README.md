@@ -15,17 +15,16 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 **Ingeniero AIOps en Telefónica España (TME)**: Diseño e implemento observabilidad en tiempo real, detección estadística de anomalías y arquitecturas de datos para plataformas críticas de streaming de vídeo (Movistar Plus+).
-- 🤖 **Sistemas Agénticos & IA Generativa**: Especializado en orquestación de agentes autónomos con grafos de estado (**LangGraph**), desacoplamiento de herramientas con **Model Context Protocol (MCP)** y flujos *Human-in-the-Loop*.
-- 📊 **Big Data & Observabilidad**: Gestión de bases de datos analíticas y de series temporales (**ClickHouse**, **InfluxDB**) y automatización de pipelines de datos con **Apache Airflow** y **Docker**.
-- 🌐 Consulta mi trayectoria completa, proyectos y artículos técnicos en <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Visitar-darioaplicano.com-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="darioaplicano.com" /></a>
+- 🔭 **AIOps en Telefónica España**: Monitorización en tiempo real, detección estadística de anomalías y plataformas de observabilidad para servicios críticos de vídeo streaming (Movistar Plus+).
+- 🤖 **Sistemas Agénticos & IA**: Diseño de arquitecturas de agentes autónomos con grafos de estado y herramientas desacopladas orientadas a producción (*Human-in-the-Loop*).
+- 📊 **Ingeniería de Datos**: Modelado y optimización de bases de datos analíticas, series temporales y automatización de pipelines de datos.
 
 ---
 
-<h3 align="center">🛠️ Áreas de Especialización &amp; Stack</h3>
+<h3 align="center">🛠️ Stack &amp; Tecnologías</h3>
 
 <p align="center">
-  <strong>🤖 Sistemas Agénticos &amp; IA</strong><br/>
+  <strong>Sistemas Agénticos &amp; IA</strong><br/>
   <img src="https://img.shields.io/badge/LangGraph-2C3E50?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-0052CC?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
@@ -34,7 +33,7 @@
 </p>
 
 <p align="center">
-  <strong>📡 AIOps, Observabilidad &amp; Datos</strong><br/>
+  <strong>Observabilidad &amp; Datos</strong><br/>
   <img src="https://img.shields.io/badge/ClickHouse-F9C80E?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" />
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" />
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
@@ -43,7 +42,7 @@
 </p>
 
 <p align="center">
-  <strong>☁️ Cloud &amp; Entornos</strong><br/>
+  <strong>Cloud &amp; CI/CD</strong><br/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
 </p>
@@ -62,14 +61,6 @@
 
 ---
 
-<h3 align="center">🤝 Conectemos</h3>
-
 <p align="center">
-  ¿Hablamos sobre <strong>IA agéntica</strong>, <strong>observabilidad</strong> o <strong>arquitecturas de datos</strong>?<br/>
-  Siempre abierto a intercambiar ideas, experiencias y debatir sobre tecnología.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/darioaplicano"><img src="https://img.shields.io/badge/LinkedIn-Conectar_en_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Web_Personal-darioaplicano.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
+  ¿Hablamos sobre tecnología? Conecta conmigo en <a href="https://linkedin.com/in/darioaplicano">LinkedIn</a> o consulta mis publicaciones en <a href="https://darioaplicano.com">darioaplicano.com</a>.
 </p>
