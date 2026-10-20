@@ -5,13 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Web_Personal-darioaplicano.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
-  <a href="https://linkedin.com/in/darioaplicano"><img src="https://img.shields.io/badge/LinkedIn-darioaplicano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://darioaplicano.gitbook.io/influxdb2.x"><img src="https://img.shields.io/badge/GitBook-Cursos_y_Guías-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=darioaplicano&label=Visitas%20al%20perfil&color=0e75b6&style=flat-square" alt="Visitas al perfil" />
+  <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Web-darioaplicano.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
+  <a href="https://linkedin.com/in/darioaplicano"><img src="https://img.shields.io/badge/LinkedIn-darioaplicano-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://darioaplicano.gitbook.io/influxdb2.x"><img src="https://img.shields.io/badge/GitBook-Guías_y_Docs-3884FF?style=flat-square&logo=gitbook&logoColor=white" alt="GitBook" /></a>
 </p>
 
 ---
