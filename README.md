@@ -1,39 +1,41 @@
-<h1 align="center">¡Hola! 👋 Soy Alex Darío</h1>
+<h1 align="center">¡Hola! 👋 Soy Alex Darío Flores</h1>
 
 <p align="center">
-  <strong>AIOps Engineer en Telefónica España</strong><br/>
-  Machine Learning &middot; Sistemas Agénticos &middot; Cloud &amp; Big Data
+  <strong>AI Operations &amp; Systems Engineer @ Telefónica España</strong><br/>
+  Sistemas Agénticos en Producción (LangGraph &middot; MCP) &middot; Observabilidad Crítica &middot; Big Data
 </p>
 
 <p align="center">
-  <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Web-darioaplicano.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
+  <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Portafolio_&_CV-darioaplicano.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
   <a href="https://linkedin.com/in/darioaplicano"><img src="https://img.shields.io/badge/LinkedIn-darioaplicano-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://darioaplicano.gitbook.io/influxdb2.x"><img src="https://img.shields.io/badge/GitBook-Guías_y_Docs-3884FF?style=flat-square&logo=gitbook&logoColor=white" alt="GitBook" /></a>
+  <a href="https://darioaplicano.gitbook.io/influxdb2.x"><img src="https://img.shields.io/badge/GitBook-Guías_Técnicas-3884FF?style=flat-square&logo=gitbook&logoColor=white" alt="GitBook" /></a>
 </p>
 
 ---
 
-### 🚀 Sobre mí
+### 🎯 Perfil Profesional de un Vistazo
 
-- 🔭 **AIOps en Telefónica España**: Monitorización en tiempo real, detección estadística de anomalías y plataformas de observabilidad para servicios críticos de vídeo streaming (Movistar Plus+).
-- 🤖 **Sistemas Agénticos & IA**: Diseño de arquitecturas de agentes autónomos con grafos de estado y herramientas desacopladas orientadas a producción (*Human-in-the-Loop*).
-- 📊 **Ingeniería de Datos**: Modelado y optimización de bases de datos analíticas, series temporales y automatización de pipelines de datos.
++10 años de trayectoria en datos y sistemas de alta disponibilidad. Especializado en la convergencia entre **sistemas agénticos de IA** y **observabilidad crítica (AIOps)** en entornos de escala masiva:
+
+- 🔭 **AIOps en Servicios Críticos (Telefónica España)**: Referente técnico en observabilidad en tiempo real, diagnóstico predictivo y telemetría para la plataforma de vídeo de **Movistar Plus+**, optimizando la fiabilidad del servicio y reduciendo tiempos de restauración (MTTR).
+- 🤖 **Arquitecturas Agénticas en Producción**: Diseño y orquestación de agentes autónomos con **LangGraph** y **Model Context Protocol (MCP)**, integrando control de estado, salvaguardas *Human-in-the-Loop* y herramientas desacopladas para flujos operativos complejos.
+- ⚡ **Ingeniería de Datos de Alto Rendimiento**: Arquitecturas analíticas OLAP y bases de datos de series temporales (**ClickHouse**, **InfluxDB**) combinadas con pipelines desatendidos en **Apache Airflow**, **Docker** y **Azure**.
 
 ---
 
-<h3 align="center">🛠️ Stack &amp; Tecnologías</h3>
+<h3 align="center">🛠️ Core Tech Stack</h3>
 
 <p align="center">
-  <strong>Sistemas Agénticos &amp; IA</strong><br/>
+  <strong>Agentes Autónomos &amp; IA</strong><br/>
   <img src="https://img.shields.io/badge/LangGraph-2C3E50?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-0052CC?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/RAG_&_Embeddings-4B32C3?style=flat-square" alt="RAG" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/RAG_&_Embeddings-4B32C3?style=flat-square" alt="RAG" />
 </p>
 
 <p align="center">
-  <strong>Observabilidad &amp; Datos</strong><br/>
+  <strong>Observabilidad, AIOps &amp; Data Engines</strong><br/>
   <img src="https://img.shields.io/badge/ClickHouse-F9C80E?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" />
   <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=flat-square&logo=influxdb&logoColor=white" alt="InfluxDB" />
   <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
@@ -49,7 +51,7 @@
 
 ---
 
-<h3 align="center">📊 Actividad en GitHub</h3>
+<h3 align="center">📊 Consistencia &amp; Código</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=darioaplicano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
@@ -62,5 +64,6 @@
 ---
 
 <p align="center">
-  ¿Hablamos sobre tecnología? Conecta conmigo en <a href="https://linkedin.com/in/darioaplicano">LinkedIn</a> o consulta mis publicaciones en <a href="https://darioaplicano.com">darioaplicano.com</a>.
+  💼 ¿Tienes una oportunidad técnica o quieres intercambiar impresiones sobre IA y AIOps?<br/>
+  Conectemos en <a href="https://linkedin.com/in/darioaplicano"><strong>LinkedIn</strong></a> o explora mi trayectoria detallada en <a href="https://darioaplicano.com"><strong>darioaplicano.com</strong></a>.
 </p>
