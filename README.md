@@ -15,9 +15,9 @@
 
 ### 🚀 Sobre mí
 
-- 🔭 **Ingeniero AIOps en Telefónica España (TME)**: Diseño e implemento observabilidad en tiempo real, detección estadística de anomalías y telemetría masiva para plataformas críticas de streaming de vídeo (Movistar Plus+).
+- 🔭 **Ingeniero AIOps en Telefónica España (TME)**: Diseño e implemento observabilidad en tiempo real, detección estadística de anomalías y arquitecturas de datos para plataformas críticas de streaming de vídeo (Movistar Plus+).
 - 🤖 **Sistemas Agénticos & IA Generativa**: Especializado en orquestación de agentes autónomos con grafos de estado (**LangGraph**), desacoplamiento de herramientas con **Model Context Protocol (MCP)** y flujos *Human-in-the-Loop*.
-- 📊 **Telemetría Masiva & Datos**: Gestión de bases de datos analíticas y de series temporales (**ClickHouse**, **InfluxDB**) y automatización de pipelines de datos con **Apache Airflow** y **Docker**.
+- 📊 **Big Data & Observabilidad**: Gestión de bases de datos analíticas y de series temporales (**ClickHouse**, **InfluxDB**) y automatización de pipelines de datos con **Apache Airflow** y **Docker**.
 - 🌐 Consulta mi trayectoria completa, proyectos y artículos técnicos en <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Visitar-darioaplicano.com-0e75b6?style=flat-square&logo=googlechrome&logoColor=white" alt="darioaplicano.com" /></a>
 
 ---
