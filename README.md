@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Alex Darío Flores</strong> &middot; AI Operations &amp; Systems Engineer @ Telefónica España<br/>
-  Sistemas Agénticos en Producción (LangGraph &middot; MCP) &middot; Observabilidad Crítica &middot; Big Data
+  Sistemas Agénticos en Producción (LangGraph &middot; MCP &middot; Agent Skills) &middot; Observabilidad Crítica &middot; Big Data
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 +10 años de trayectoria en datos y sistemas de alta disponibilidad. Especializado en la convergencia entre **sistemas agénticos de IA** y **observabilidad crítica (AIOps)** en entornos de escala masiva:
 
-- 🔭 **AIOps en Servicios Críticos (Telefónica España)**: Referente técnico en observabilidad en tiempo real, diagnóstico predictivo y telemetría para la plataforma de vídeo de **Movistar Plus+**, optimizando la fiabilidad del servicio y reduciendo tiempos de restauración (MTTR).
-- 🤖 **Arquitecturas Agénticas en Producción**: Diseño y orquestación de agentes autónomos con **LangGraph** y **Model Context Protocol (MCP)**, integrando control de estado, salvaguardas *Human-in-the-Loop* y herramientas desacopladas para flujos operativos complejos.
+- 🔭 **AIOps en Servicios Críticos (Telefónica España)**: Observabilidad en tiempo real, detección estadística de anomalías y telemetría analítica para la plataforma de vídeo de **Movistar Plus+**, optimizando la fiabilidad del servicio y reduciendo tiempos de resolución (MTTR).
+- 🤖 **Arquitecturas Agénticas & LLMs**: Diseño y orquestación de agentes autónomos con **LangGraph**, **Model Context Protocol (MCP)** y **Agent Skills** modulares, integrando modelos de frontera (**Claude**, **GPT**, **Gemini**) con salvaguardas *Human-in-the-Loop*.
 - ⚡ **Ingeniería de Datos de Alto Rendimiento**: Arquitecturas analíticas OLAP y bases de datos de series temporales (**ClickHouse**, **InfluxDB**) combinadas con pipelines desatendidos en **Apache Airflow**, **Docker** y **Azure**.
 
 ---
@@ -26,9 +26,17 @@
 <h3 align="center">🛠️ Core Tech Stack</h3>
 
 <p align="center">
-  <strong>Agentes Autónomos &amp; IA</strong><br/>
+  <strong>Modelos de Frontera</strong><br/>
+  <img src="https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic Claude" />
+  <img src="https://img.shields.io/badge/OpenAI_GPT-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI GPT" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+</p>
+
+<p align="center">
+  <strong>Arquitectura Agéntica &amp; Desarrollo</strong><br/>
   <img src="https://img.shields.io/badge/LangGraph-2C3E50?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/Model_Context_Protocol_(MCP)-0052CC?style=flat-square&logo=anthropic&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/Agent_Skills-6366F1?style=flat-square" alt="Agent Skills" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/RAG_&_Embeddings-4B32C3?style=flat-square" alt="RAG" />
@@ -61,6 +69,6 @@
 ---
 
 <p align="center">
-  💼 ¿Tienes una oportunidad técnica o quieres intercambiar impresiones sobre IA y AIOps?<br/>
-  Conectemos en <a href="https://linkedin.com/in/darioaplicano"><strong>LinkedIn</strong></a> o explora mi trayectoria detallada en <a href="https://darioaplicano.com"><strong>darioaplicano.com</strong></a>.
+  ¿Hablamos sobre IA agéntica, observabilidad o datos?<br/>
+  Conectemos en <a href="https://linkedin.com/in/darioaplicano"><strong>LinkedIn</strong></a> o visita <a href="https://darioaplicano.com"><strong>darioaplicano.com</strong></a>.
 </p>
