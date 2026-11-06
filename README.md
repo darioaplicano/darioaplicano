@@ -1,13 +1,14 @@
 <h1 align="center">AIOps &amp; AI Systems Engineering</h1>
 
 <p align="center">
-  <strong>Alex Darío Flores</strong> &middot; AI Operations &amp; Systems Engineer @ Telefónica España<br/>
+  <strong>Alex Dario Flores</strong> &middot; AI Operations &amp; Systems Engineer @ Telefónica España<br/>
   Sistemas Agénticos en Producción (LangGraph &middot; MCP &middot; Agent Skills) &middot; Observabilidad Crítica &middot; Big Data
 </p>
 
 <p align="center">
   <a href="https://darioaplicano.com"><img src="https://img.shields.io/badge/Portafolio_&_CV-darioaplicano.com-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
   <a href="https://linkedin.com/in/darioaplicano"><img src="https://img.shields.io/badge/LinkedIn-darioaplicano-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://darioaplicano.com/blog/"><img src="https://img.shields.io/badge/Blog_técnico-darioaplicano.com/blog-111827?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
   <a href="https://darioaplicano.gitbook.io/influxdb2.x"><img src="https://img.shields.io/badge/GitBook-InfluxDB_2.x-3884FF?style=flat-square&logo=gitbook&logoColor=white" alt="GitBook" /></a>
 </p>
 
@@ -15,11 +16,13 @@
 
 ### 🎯 Perfil Profesional de un Vistazo
 
-+10 años de trayectoria en datos y sistemas de alta disponibilidad. Especializado en la convergencia entre **sistemas agénticos de IA** y **observabilidad crítica (AIOps)** en entornos de escala masiva:
++10 años de trayectoria en datos y sistemas de alta disponibilidad. Especializado en la convergencia entre **sistemas agénticos de IA** y **observabilidad (AIOps)** en servicios de alta disponibilidad:
 
 - 🔭 **AIOps en Servicios Críticos (Telefónica España)**: Observabilidad en tiempo real, detección estadística de anomalías y telemetría analítica para la plataforma de vídeo de **Movistar Plus+**, optimizando la fiabilidad del servicio y reduciendo tiempos de resolución (MTTR).
 - 🤖 **Arquitecturas Agénticas & LLMs**: Diseño y orquestación de agentes autónomos con **LangGraph**, **Model Context Protocol (MCP)** y **Agent Skills** modulares, integrando modelos de frontera (**Anthropic**, **OpenAI**, **Google**) con salvaguardas *Human-in-the-Loop*.
 - ⚡ **Ingeniería de Datos de Alto Rendimiento**: Arquitecturas analíticas OLAP y bases de datos de series temporales (**ClickHouse**, **InfluxDB**) combinadas con pipelines desatendidos en **Apache Airflow**, **Docker** y **Azure**.
+- 🎓 **Docencia**: formador en Imagina Formación (curso de **InfluxDB 2.x** y serie de 42 píldoras sobre automatización con **Make**, entregada y con la validación final en curso).
+- ✍️ **Blog técnico**: artículos sobre agentes en producción, portabilidad multi-agente y evaluación de RAG en [darioaplicano.com/blog](https://darioaplicano.com/blog/).
 
 ---
 
@@ -52,9 +55,10 @@
 </p>
 
 <p align="center">
-  <strong>Cloud &amp; CI/CD</strong><br/>
+  <strong>Cloud, CI/CD &amp; Automatización</strong><br/>
   <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+  <img src="https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make" />
 </p>
 
 ---
