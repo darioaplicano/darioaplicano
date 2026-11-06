@@ -66,7 +66,6 @@
 <h3 align="center">📊 Consistencia &amp; Código</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=darioaplicano&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
   <img src="https://streak-stats.demolab.com?user=darioaplicano&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
 
